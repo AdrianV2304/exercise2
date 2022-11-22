@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./shared/scss/index.scss";
 import reportWebVitals from "./reportWebVitals";
-import Card from "./components/card/Card";
+import Card from "./components/card";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
