@@ -1,0 +1,9 @@
+@use "../../shared/scss/" as *;
+
+.details {
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 18px;
+    color: $black;
+}

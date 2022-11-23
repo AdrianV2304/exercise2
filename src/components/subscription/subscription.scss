@@ -1,9 +1,11 @@
 @use "../../shared/scss/" as *;
 
-.subsciption {
+.subscription {
   width: fit-content;
-  font-family: "Poppins";
+  font-family: 'Poppins', sans-serif;
   font-size: 18px;
   font-weight: 600;
+  color: $black;
+  margin-bottom: 5px;
   color: $black;
 }
